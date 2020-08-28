@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Patrick star uhhh](https://media.giphy.com/media/qQZAQQZP029NK/giphy.gif)
+[my blog](https://lennythedev.com/blog)
 
 <!--
 **lenmorld/lenmorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
