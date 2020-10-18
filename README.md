@@ -1,6 +1,6 @@
-## Hi there, I'm Lenny aka [lennythedev](https://lennythedev.com/blog)
+## Hi there, I'm [Lenny](https://lennythedev.com/blog) 👨🏽‍💻
 
-- 👨🏽‍💻 Full-stack web developer. Lifelong learner. Currently into anything web: UI, backend and everything in between. 💻
+- 🤓 Full-stack web developer. Lifelong learner. Currently into anything web: UI, backend and everything in between. 💻
 
 - 👨🏽‍💼 SW Engineer at Autodesk helping people <i>make anything</i> through software
 
