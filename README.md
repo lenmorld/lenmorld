@@ -12,7 +12,6 @@
 
 - 🤝 I'm a mentor. Reach out via one of my socials 👇🏽 if you're interested.
 
-<br>
 
 ## Follow my journey ⛰️
 
@@ -22,7 +21,6 @@
 
 - 🧰 Tinkering some UI on [codepen][codepen] and [codesandbox][codesandbox]
 
-<br>
 
 ## Connect with me:
 
