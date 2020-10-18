@@ -22,7 +22,9 @@
 - 🧰 Tinkering some UI on [codepen][codepen] and [codesandbox][codesandbox]
 
 
-## Connect with me:
+## Connect with me 👋
+
+Don't be a stranger. Say hi! 😊
 
 <!-- <a href="https://github.com/sponsors/M0nica"><img align="left" width="250" height="250" src="https://github.com/lenmorld/lenmorld/blob/master/lenny_octocat.png?raw=true"></a> -->
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="250" height="250" src="./lenny_octocat.png?raw=true"></a>
