@@ -1,12 +1,18 @@
 ## Hi there, I'm Lenny aka [lennythedev](https://lennythedev.com/blog)
 
 - 👨🏽‍💻 Full-stack web developer. Lifelong learner. Currently into anything web: UI, backend and everything in between. 💻
+
 - 👨🏽‍💼 SW Engineer at Autodesk helping people <i>make anything</i> through software
+
 - 🔭 I’m currently enjoy working on projects with React, Node, GraphQL, and Rails
+
 - 👨‍🏫 I teach React and Node workshops with [SCS Concordia](https://scsconcordia.com/)
  
 - ⚡ When I'm not coding, I love playing the  🎸; watching, gaming, and playing 🏀
+
 - 🤝 I'm a mentor. Reach out via one of my socials 👇🏽 if you're interested.
+
+<br>
 
 ## Follow my journey ⛰️
 
@@ -16,8 +22,6 @@
 
 - 🧰 Tinkering some UI on [codepen][codepen] and [codesandbox][codesandbox]
 
-
-<br>
 <br>
 
 ## Connect with me:
