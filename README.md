@@ -27,7 +27,9 @@
 Don't be a stranger. Say hi! 😊
 
 <!-- <a href="https://github.com/sponsors/M0nica"><img align="left" width="250" height="250" src="https://github.com/lenmorld/lenmorld/blob/master/lenny_octocat.png?raw=true"></a> -->
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="250" height="250" src="./lenny_octocat.png?raw=true"></a>
+<a href="https://twitter.com/messages/compose?recipient_id=3805711664708756107264104374&text=Hello%20world" class="twitter-dm-button" data-screen-name="@lennythedev2">
+    <img align="left" width="250" height="250" src="./lenny_octocat.png?raw=true" />
+</a>
 
 
 &nbsp;&nbsp;&nbsp;[<img width="24px" alt="lennythedev.com" src="https://unpkg.com/simple-icons@v3/icons/gatsby.svg" />][website]
