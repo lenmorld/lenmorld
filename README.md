@@ -1,25 +1,25 @@
 ## Hi there, I'm [Lenny](https://lennythedev.com/blog) 👨🏽‍💻
 
-- 🤓 Full-stack web developer. Lifelong learner. Currently into anything web: UI, backend and everything in between. 💻
+- 🤓 &nbsp;Full-stack web developer. Lifelong learner. Currently into anything web: UI, backend and everything in between. 💻
 
-- 👨🏽‍💼 SW Engineer at Autodesk helping people <i>make anything</i> through software
+- 👨🏽‍&nbsp;💼 SW Engineer at Autodesk helping people <i>make anything</i> through software
 
-- 🔭 I’m currently enjoy working on projects with React, Node, GraphQL, and Rails
+- 🔭 &nbsp;I’m currently enjoy working on projects with React, Node, GraphQL, and Rails
 
-- 👨‍🏫 I teach React and Node workshops with [SCS Concordia](https://scsconcordia.com/)
+- 👨‍🏫 &nbsp;I teach React and Node workshops with [SCS Concordia](https://scsconcordia.com/)
  
-- ⚡ When I'm not coding, I love playing the  🎸; watching, gaming, and playing 🏀
+- ⚡ &nbsp;When I'm not coding, I love playing the  🎸; watching, gaming, and playing 🏀
 
-- 🤝 I'm a mentor. Reach out via one of my socials 👇🏽 if you're interested.
+- 🤝 &nbsp;I'm a mentor. Reach out via one of my socials 👇🏽 if you're interested.
 
 
 ## Follow my journey ⛰️
 
-- ✍🏽 Learning in public on [blog][blog], <a href="https://dev.to/lenmorld">dev.to</a> and [twitter][twitter]
+- ✍🏽 &nbsp;Learning in public on [blog][blog], <a href="https://dev.to/lenmorld">dev.to</a> and [twitter][twitter]
 
-- 👥 Collaborating on some open source projects [github][github]
+- 👥 &nbsp;Collaborating on some open source projects [github][github]
 
-- 🧰 Tinkering some UI on [codepen][codepen] and [codesandbox][codesandbox]
+- 🧰 &nbsp;Tinkering some UI on [codepen][codepen] and [codesandbox][codesandbox]
 
 
 ## Connect with me 👋
