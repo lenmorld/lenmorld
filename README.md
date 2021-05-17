@@ -2,9 +2,9 @@
 
 - 🤓 &nbsp;&nbsp;Full-stack web developer. Lifelong learner. Currently into anything web: UI, backend and everything in between. 💻
 
-- 👨🏽‍💼 &nbsp;&nbsp;SW Engineer at Autodesk helping people <i>make anything</i> through software
+- 👨🏽‍💼 &nbsp;&nbsp;Software developer at AppDirect helping businesses <i>find, buy, use, and manage software</i>
 
-- 🔭 &nbsp;&nbsp;I’m currently enjoy working on projects with React, Node, GraphQL, and Rails
+- 🔭 &nbsp;&nbsp;I’m currently enjoy working on projects with React, Node, Express, and GraphQL
 
 - 👨‍🏫 &nbsp;&nbsp;I teach React and Node workshops with [SCS Concordia](https://scsconcordia.com/)
  
